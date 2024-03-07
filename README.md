@@ -27,3 +27,7 @@ Submissão feita com:
 ## Execução
 
 `docker-compose up -d`
+
+## Resultado
+<br />
+<img src="docs/test_2024_03_07_15_01.png" width="800" height="auto">
